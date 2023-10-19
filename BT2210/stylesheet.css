@@ -1,0 +1,61 @@
+.menu{
+    display: flex;
+    background-color: red;
+    
+    color: white;
+    gap: 10px;
+    padding-left: 40px;  
+}
+.menu .Chucnang{
+    padding: 10px;
+}
+.menu .Chucnang:hover{
+    background-color: brown;
+    cursor: pointer;
+}
+* {         
+    margin: 0;         
+    padding: 0;         
+    border: 0;         
+    outline: 0;         
+    font-size: 100%;         
+    vertical-align: baseline;         
+    background: transparent;    }
+.Thongtin{
+    display: flex;
+    width: 100%;
+    
+}
+.Thongtin .Noidung{
+    padding: 15px;
+    display: flex;
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Thongtin .Hmot{
+    text-align: center;
+}
+.Left{
+    width: 60vw;
+}
+.right{
+    width: 40vw;
+}
+.anh{
+    width: 260px;
+    height: 200px;
+}
+h1{
+    padding: 15px;
+}
+.header-input {
+    background-color: wheat;
+    padding: 8px;
+    margin: 10px;
+    margin-bottom: 0px;
+    width: 60%;
+}
+.ThongtinRight{
+    display: flex;
+}
